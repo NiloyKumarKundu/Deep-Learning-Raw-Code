@@ -3,7 +3,7 @@
 
 ## Set up Jupyter Notebook in the conda environment locally
 ### Installing Jupyter Notebook (default)
-<tab><tab>code/conda install -c conda-forge notebook
+code/ conda install -c conda-forge notebook
 
 `conda install -c conda-forge nb_conda_kernels`
 ### Installing Jupyter Lab
